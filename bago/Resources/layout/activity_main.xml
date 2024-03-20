@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <ImageView
+        android:src="drawable/ic_menu_gallery"
+        android:layout_width="218.0dp"
+        android:layout_height="180.3dp"
+        android:layout_marginLeft="337px"
+        android:layout_marginTop="100.0dp"
+        android:id="@+id/imageView1"
+        android:background="@drawable/bgremove" />
+    <TextView
+        android:text="Alarm ni DADZY"
+        android:textSize="24dp"
+        android:textStyle="bold"
+        android:layout_width="224.3dp"
+        android:layout_height="79.4dp"
+        android:layout_marginLeft="88.0dp"
+        android:id="@+id/textView1"
+    <Button
+        android:text="I want to wake up on time"
+        android:layout_width="227.7dp"
+        android:layout_height="84.9dp"
+        android:layout_marginLeft="88.0dp"
+        android:layout_marginTop="350.0dp"
+        android:id="@+id/button1" />
+
+     <Button
+        android:text="I want a morning habit"
+        android:layout_width="227.7dp"
+        android:layout_height="84.9dp"
+        android:layout_marginLeft="88.0dp"
+        android:layout_marginTop="430.0dp"
+        android:id="@+id/button2" />
+
+       <Button
+        android:text="i want to start early"
+        android:layout_width="227.7dp"
+        android:layout_height="84.9dp"
+        android:layout_marginLeft="88.0dp"
+        android:layout_marginTop="510.0dp"
+        android:id="@+id/button3" />
+
+
+
+
+
+
+
+
+
+</RelativeLayout>
